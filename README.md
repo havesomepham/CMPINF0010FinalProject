@@ -1,5 +1,7 @@
 # CMPINF0010FinalProject
-Final Project for CMPINF0010 Big Ideas
+Final Project for CMPINF0010 Big Ideas.
+
+We were tasked with taking data from the Western Pennsylvania Regional Data Center to determine what the best neighborhood in Pittsburgh is. We selected the metric *best neighborhood to do car racing.*
 
 
 - Team name: Team Kevin
