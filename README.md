@@ -17,4 +17,4 @@ We were tasked with taking data from the Western Pennsylvania Regional Data Cent
   - Dataset 3: Traffic Count Data
   - Dataset 4: City of Pittsburgh Crosswalk
 
-We concluded that **Highland Park** is the best neighborhood since it has the least amount of traffic and the 4th least amount of speedbumps in Pittsburgh.
+After comparing our datasets the best neighborhood for Drag Racing was **Highland Park**. In order to come to this conclusion we weighed number of crosswalks and arrests count less. As arrests included all types of criminal offences and made it less reliable. Crosswalks are weighed less as during our suggested racing time there would be less pedestrian traffic.
