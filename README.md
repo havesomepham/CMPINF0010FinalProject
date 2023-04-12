@@ -8,6 +8,8 @@ We were tasked with taking data from the Western Pennsylvania Regional Data Cent
 - Team members and their email addresses
   - Kevin Pak / KEP119@pitt.edu
   - Ryder Pham / RTP26@pitt.edu
+  - Alex Malfregeot / AMM635@pitt.edu
+  - Zach Lehning / ZAL36@pitt.edu
 - Description and links to the datasets used
   - Dataset 1: [Number of speed bumps in Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps)
     - This data conveys how many speed bumps there are in several Pittsburgh neighborhoods. It is applicable as a metric because we found that more speed bumps lead to a worse experience in street racing. So, we are trying to find the neighborhoods with the least amount of speed bumps.
