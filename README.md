@@ -27,6 +27,8 @@ We were tasked with taking data from the Western Pennsylvania Regional Data Cent
       - Many entries had location and zoning information, but no average traffic, so I decided to exclude them as well.
       - I analyzed only recent traffic data from neighborhoods with more than one entry containting an avg. traffic value in order to determing which 'hood' has the least average traffic
       - We are interested in finding the ones with the least amount of traffic, as the last thing you would hopefully want as a street racer is to plow into a Shadyside soccer mom's Cadillac Escalade.
-  - Dataset 4: City of Pittsburgh Crosswalk
-
+  - Dataset 4: [City of Pittsburgh Crosswalk](https://data.wprdc.org/datastore/dump/632fbb91-c55d-4221-a8ad-91c72902bc61)
+      - This dataset contains intersection markings for crosswalk and stop line locations and information. 
+      - The data in this dataset has not been updated since 2021 (and 2018 in for crosswalk data)
+      - Difficulties surronding this dataset included counting multiple crosswalks at the same intersection which made it less reliable.
 After comparing our datasets the best neighborhood for Drag Racing was **Highland Park**. To reach this conclusion, Team Kevin compared the number of speedbumps, numbers of arrests, average daily traffic, and number of crosswalks throughout the neighborhoods of Pittsburgh. Speed bumps are weighted heavily; hitting speedbumps at racing speed will kill your suspension and possibly you along with it. Arrests were weighted less heavily, as many in the dataset likely took place off the roads. Traffic figures are weighted heavily for the same reason as the speedbumps. Crosswalks are weighted less heavily than traffic and speedbumps, but still an important metric. Hopefully pedestrians will notice you barreling towards them at highway speeds in the 25 MPH zone and get the heck out of the way. 
