@@ -4,12 +4,12 @@ Final Project for CMPINF0010 Big Ideas.
 We were tasked with taking data from the Western Pennsylvania Regional Data Center to determine what the best neighborhood in Pittsburgh is. We selected the metric *best neighborhood to do car racing.*
 
 
-- Team name: Team Kevin
+- Team name: Team Kevin (Group 35)
 - Team members and their email addresses
-  - Kevin Pak / KEP119@pitt.edu
-  - Ryder Pham / RTP26@pitt.edu
-  - Alex Malfregeot / AMM635@pitt.edu
-  - Zach Lehning / ZAL36@pitt.edu
+  - Kevin Pak / KEP119@pitt.edu (Dataset 1)
+  - Ryder Pham / RTP26@pitt.edu (Dataset 2)
+  - Alex Malfregeot / AMM635@pitt.edu (Dataset 3)
+  - Zach Lehning / ZAL36@pitt.edu (Dataset 4)
 - Description and links to the datasets used
   - Dataset 1: [Number of speed bumps in Pittsburgh Neighborhoods](https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps)
     - This data conveys how many speed bumps there are in several Pittsburgh neighborhoods. It is applicable as a metric because we found that more speed bumps lead to a worse experience in street racing. So, we are trying to find the neighborhoods with the least amount of speed bumps.
